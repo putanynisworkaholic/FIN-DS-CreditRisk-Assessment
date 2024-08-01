@@ -1,5 +1,7 @@
 # Credit Risk Assessment Project
 
+## Owner : Putanyn Manee 🇹🇭🙇🏻‍♂️
+
 Welcome to my Credit Risk Assessment project! I'm Putanyn Manee, and in this repository, I explore various machine learning models to predict loan defaults. This journey involves data preprocessing, model training, hyperparameter tuning, and performance evaluation.
 
 ## Project Overview
